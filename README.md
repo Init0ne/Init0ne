@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6542db204352f418f807d444?variant=dark&roadmaps=backend%2Ccpp" alt="roadmap.sh"/></a>
-
 [![roadmap.sh](https://roadmap.sh/card/tall/6542db204352f418f807d444?variant=dark&roadmaps=backend%2Ccpp)](https://roadmap.sh)
 
 <!--
