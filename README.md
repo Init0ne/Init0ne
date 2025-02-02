@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6542db204352f418f807d444?variant=dark&roadmaps=cpp%2Cbackend%2Csql)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6542db204352f418f807d444?variant=dark&roadmaps=sql%2Cbackend%2Ccpp" alt="roadmap.sh"/></a>
 
 <!--
 **Init0ne/Init0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
