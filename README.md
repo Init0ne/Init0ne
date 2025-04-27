@@ -31,18 +31,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathiasDev&show_icons=true&locale=en&theme=tokyonight" alt="MathiasDev" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathiasDev&theme=tokyonight" alt="MathiasDev" />
-</p>
-
----
-
 ### 🚀 My Learning Roadmap:
 
 <p align="center">
